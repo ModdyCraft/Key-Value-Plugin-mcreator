@@ -1,0 +1,17 @@
+{
+    "args0": [
+      {
+        "type": "input_value",
+        "name": "var",
+        "check": "Map"
+      }
+    ],
+    "output": "Number",
+    "colour": 191,
+    "mcreator": {
+      "toolbox_id": "map",
+      "inputs": [
+        "var"
+      ]
+    } 
+} 

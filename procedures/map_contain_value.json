@@ -1,0 +1,23 @@
+{
+    "args0": [
+      {
+        "type": "input_value",
+        "name": "var",
+        "check": "Map"
+      },
+      {
+        "type": "input_value",
+        "name": "value"
+      }
+    ],
+    "inputsInline": true,
+    "output": "Boolean",
+    "colour": 243,
+    "mcreator": {
+      "toolbox_id": "map",
+      "inputs": [
+        "var",
+        "value"
+      ]
+    }
+}  
