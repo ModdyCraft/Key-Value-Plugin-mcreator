@@ -8,7 +8,7 @@
       {
         "type":"input_value",
         "name": "key",
-        "check": "String"
+        "check": ["String","Number"]
       }
     ],
     "inputsInline": true,

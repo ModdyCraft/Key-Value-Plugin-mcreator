@@ -1,7 +1,7 @@
 defaultvalue: new HashMap<>()
 scopes:
   local:
-    init: Map<Object, String> ${var.getName()} = ${var.getType().getDefaultValue(generator.getWorkspace())};
+    init: Map<String, String> ${var.getName()} = ${var.getType().getDefaultValue(generator.getWorkspace())};
     get: ${name}
     set: ${name} = (${javaType}) ${value};
   global_session:
