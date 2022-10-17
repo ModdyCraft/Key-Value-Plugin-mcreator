@@ -13,7 +13,7 @@
       {
         "type": "input_value",
         "name": "key",
-        "check": ["String", "Number"]
+        "check": "String"
       }
     ],
     "inputsInline": true,
