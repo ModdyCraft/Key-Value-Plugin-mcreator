@@ -15,6 +15,9 @@
     "output": "Boolean",
     "colour": 243,
     "mcreator": {
+      "toolbox_init": [
+        "<value name=\"key\"><block type=\"text\"><field name=\"TEXT\">key</field></block></value>"
+      ],
       "toolbox_id": "map",
       "inputs": [
         "var",

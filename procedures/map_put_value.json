@@ -20,6 +20,9 @@
     "nextStatement": null,
     "colour": 268,
     "mcreator": {
+        "toolbox_init": [
+            "<value name=\"key\"><block type=\"text\"><field name=\"TEXT\">key</field></block></value>"
+        ],
         "toolbox_id": "map",
         "inputs": [
           "key",
