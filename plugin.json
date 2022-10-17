@@ -3,7 +3,7 @@
     "minversion": 202100351610,
     "info": {
         "name": "Map",
-        "version": "1.1",
+        "version": "1.3",
         "description": "Creating lists with Key Value",
         "author": "ModdyDev",
         "updateJSONURL": "https://mcreator.net/plugin/91613/key-value-plugin",
