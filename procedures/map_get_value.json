@@ -3,7 +3,7 @@
     {
       "type": "input_value",
       "name": "var",
-      "check": ["Map<String>","Map<Boolean>","Map<Number>","Map<Block>"]
+      "check": ["Map<String>","Map<Boolean>","Map<Number>","Map<Block>","Map<Map>"]
     },
     {
       "type": "input_value",

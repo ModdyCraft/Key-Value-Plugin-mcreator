@@ -8,12 +8,12 @@
       {
         "type": "input_value",
         "name": "var",
-        "check": ["Map<String>","Map<Boolean>","Map<Number>","Map<Block>"]
+        "check": "Map<Number>"
       },
       {
         "type": "input_value",
         "name": "key",
-        "check": "String"
+        "check": ["String", "Number"]
       }
     ],
     "inputsInline": true,

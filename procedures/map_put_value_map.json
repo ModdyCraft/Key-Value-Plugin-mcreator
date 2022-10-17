@@ -3,12 +3,12 @@
       {
         "type": "input_value",
         "name": "value",
-        "check": "String"
+        "check": ["Map<String>","Map<Boolean>","Map<Number>","Map<Block>","Map<Map>"]
       },
       {
         "type": "input_value",
         "name": "var",
-        "check": "Map<String>"
+        "check": "Map<Map>"
       },
       {
         "type": "input_value",
@@ -19,11 +19,10 @@
     "inputsInline": true,
     "previousStatement": null,
     "nextStatement": null,
-    "colour": "%{BKY_TEXTS_HUE}",
+    "colour": 268,
     "mcreator": {
         "toolbox_init": [
-            "<value name=\"key\"><block type=\"text\"><field name=\"TEXT\">key</field></block></value>",
-            "<value name=\"value\"><block type=\"text\"><field name=\"TEXT\">value</field></block></value>"
+            "<value name=\"key\"><block type=\"text\"><field name=\"TEXT\">key</field></block></value>"
         ],
         "toolbox_id": "map",
         "inputs": [
